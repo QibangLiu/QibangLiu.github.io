@@ -1,0 +1,15 @@
+---
+title: "A mesoscopic level multi-scale approach to generate a complex polymer morphology"
+collection: publications
+category: conferences
+permalink: /publication/2021-03-22-mesoscopic-polymer-morphology
+# excerpt: "This paper presents a mesoscopic level, multiscale approach to generate a complex polymer morphology for simulations of polymer chains aimed at material design or the study of material properties, such as strain/stress relations and electromechanical properties."
+date: 2021-03-22
+venue: "Electroactive Polymer Actuators and Devices (EAPAD) XXIII, SPIE"
+paperurl: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11587/2587907/A-mesoscopic-level-multi-scale-approach-to-generate-a-complex/10.1117/12.2587907.full"
+# doi: "10.1117/12.2587907"
+citation: 'Liu, Qibang; Mazumder, Agniprobho; Wang, Youqi; Xin, Xiaojiang; Su, Ji (2021). &quot;A mesoscopic level multi-scale approach to generate a complex polymer morphology.&quot; <i>Electroactive Polymer Actuators and Devices (EAPAD) XXIII, SPIE</i>, 11587:74. DOI: <a href="https://doi.org/10.1117/12.2587907">10.1117/12.2587907</a>.'
+---
+
+## Abstract
+Polymer computational simulations enable the prediction of material properties, exploration of the microscopic and macroscopic phenomenon of materials, and guidance of in vitro macromolecular materials design. This paper presents a mesoscopic level, multiscale approach to generate a complex polymer morphology for future simulations of polymer chains aimed at the design of materials or the study of material properties, such as strain/stress relations and electromechanical properties. To generate a complex polymer morphology, a mesoscopic level model is developed, in which the polymer chains are modeled as one-dimensional homogeneous flexible chains, and the crystalline regions are modeled as rigid continuum bodies. The polymer domain is firstly discretized into a uniform mesh. Location, orientation, and size of crystalline regions can be either pre-defined or randomly distributed inside the polymer domain. Nodes of each cuboid element grid located within crystal units are marked as occupied. Then, a random walking process is applied to generate polymer chains. No overlap is permitted between polymer chains nor between polymer chains and crystalline regions. Chain propagation ceases upon reaching the crystal block surface. Polymer chain properties, such as longitudinal stiffness, bending stiffness, and torsional stiffness, are derived based on molecular structures. Interactions, those between polymer chains, and those between polymer chains and crystalline regions are derived based on Lennard-Jones forces. An explicit dynamic relaxation algorithm is applied to minimize potential energy. This approach is much more efficient than MD simulation. The computing time required for this mesoscopic simulation is only 0.5-1% of MD simulation. Yet, nano- and micro-scale geometries of polymer morphology can still be analyzed in detail. Polyvinylidene difluoride (PVDF) is selected to demonstrate the efficiency and efficacy of this numerical model due to its high piezoelectric coefficient.

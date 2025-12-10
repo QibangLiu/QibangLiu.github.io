@@ -11,27 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Mechanical Engineering, Kansas State University, 2018-2022
+* B.S.  Naval Architecture and Ocean Engineering, Huazhong University of Science and Technology Wuhan, China
 
-Work experience
+Academic Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Scientist (100% FTE)** — Jul. 2024 – Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+  National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign (UIUC)
+* **Adjunct Assistant Professor (0% FTE)** — Mar. 2024 – Present
+
+
+  Department of Industrial & Manufacturing Systems Engineering, Kansas State University (KSU)
+* **Postdoctoral Research Associate** — Jun. 2022 – Jun. 2024
+
+
+  Beckman Institute; Department of Aerospace Engineering, University of Illinois Urbana–Champaign
+
+
+  Advisor: Prof. Philippe Geubelle; AMS Group & REMAT Group
+* **Graduate Research & Teaching Assistant; Research Scholar** — Jan. 2018 – Jun. 2022
+
+
+  Department of Mechanical & Nuclear Engineering, Kansas State University (KSU)
+
 Skills
 ======
 * Skill 1
@@ -46,19 +50,19 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
