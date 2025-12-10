@@ -3,7 +3,7 @@ title: "Learning cure kinetics of frontal polymerization PDEs using differentiab
 collection: publications
 category: conferences
 permalink: /publication/2024-07-23-learning-cure-kinetics-fp
-excerpt: "This work demonstrates the use of a differentiable simulator for PDEs to learn cure kinetics functions from video frames of the true solution, enabling the discovery of missing physics in frontal polymerization dynamics."
+# excerpt: "This work demonstrates the use of a differentiable simulator for PDEs to learn cure kinetics functions from video frames of the true solution, enabling the discovery of missing physics in frontal polymerization dynamics."
 date: 2024-07-23
 venue: "ICML 2024 AI for Science Workshop"
 paperurl: "https://openreview.net/forum?id=68nqaJEx4x"

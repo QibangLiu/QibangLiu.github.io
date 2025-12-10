@@ -3,7 +3,7 @@ title: "A non-linear material model for progressive damage analysis of woven com
 collection: publications
 category: manuscripts
 permalink: /publication/2022-07-08-nonlinear-damage-woven-composites
-excerpt: "This paper presents a progressive damage model to investigate the damage and failure behaviors of woven composites using a conformal finite element mesh generated from realistic fabric micro-geometry."
+# excerpt: "This paper presents a progressive damage model to investigate the damage and failure behaviors of woven composites using a conformal finite element mesh generated from realistic fabric micro-geometry."
 date: 2022-07-08
 venue: "Journal of Composite Materials"
 paperurl: "http://journals.sagepub.com/doi/10.1177/00219983221113615"

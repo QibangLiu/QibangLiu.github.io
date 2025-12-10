@@ -3,7 +3,7 @@ title: "Univariate conditional variational autoencoder for morphogenic pattern d
 collection: publications
 category: manuscripts
 permalink: /publication/2025-04-01-univariate-cvae-pattern-design
-excerpt: "This work introduces a univariate conditional variational autoencoder (CVAE) for designing morphogenic patterns in frontal polymerization-based manufacturing, enabling efficient and accurate control over pattern formation."
+# excerpt: "This work introduces a univariate conditional variational autoencoder (CVAE) for designing morphogenic patterns in frontal polymerization-based manufacturing, enabling efficient and accurate control over pattern formation."
 date: 2025-04-01
 venue: "Computer Methods in Applied Mechanics and Engineering"
 paperurl: "https://linkinghub.elsevier.com/retrieve/pii/S0045782525001203"

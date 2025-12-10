@@ -3,7 +3,7 @@ title: "Fluid convection driven by surface tension during free-surface frontal p
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-01-fluid-convection-fp
-excerpt: "This study investigates how fluid convection ahead of the propagating front impacts the reaction–diffusion balance in the free-surface frontal polymerization of dicyclopentadiene (DCPD) and 5-ethylidene-2-norbornene (ENB)."
+# excerpt: "This study investigates how fluid convection ahead of the propagating front impacts the reaction–diffusion balance in the free-surface frontal polymerization of dicyclopentadiene (DCPD) and 5-ethylidene-2-norbornene (ENB)."
 date: 2024-07-01
 venue: "Mechanics of Materials"
 paperurl: "https://linkinghub.elsevier.com/retrieve/pii/S0167663624000796"

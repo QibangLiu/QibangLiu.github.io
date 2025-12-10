@@ -3,7 +3,7 @@ title: "Adaptive coupling peridynamic least-square minimization with finite elem
 collection: publications
 category: manuscripts
 permalink: /publication/2022-11-21-adaptive-pdlsm-fem
-excerpt: "This study presents an adaptive coupling peridynamic least-square minimization with the finite element method (PDLSM-FEM) for fracture analysis, maximizing computational efficiency while modeling discontinuities."
+# excerpt: "This study presents an adaptive coupling peridynamic least-square minimization with the finite element method (PDLSM-FEM) for fracture analysis, maximizing computational efficiency while modeling discontinuities."
 date: 2022-11-21
 venue: "International Journal of Fracture"
 paperurl: "https://link.springer.com/10.1007/s10704-022-00678-4"

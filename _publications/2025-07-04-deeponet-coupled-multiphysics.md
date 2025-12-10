@@ -3,7 +3,7 @@ title: "When Network Architecture Meets Physics: Deep Operator Learning for Coup
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-04-deeponet-coupled-multiphysics
-excerpt: "This study evaluates DeepONet variants for coupled multiphysics problems, introducing a coupling-aware design principle for neural operators to achieve real-time surrogate modeling."
+# excerpt: "This study evaluates DeepONet variants for coupled multiphysics problems, introducing a coupling-aware design principle for neural operators to achieve real-time surrogate modeling."
 date: 2025-07-04
 venue: "arXiv"
 paperurl: "http://arxiv.org/abs/2507.03660"

@@ -3,7 +3,7 @@ title: "Adaptive Data-Driven Deep-Learning Surrogate Model for Frontal Polymeriz
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-08-adaptive-dl-surrogate-fp
-excerpt: "This work develops an adaptive deep-learning surrogate model for frontal polymerization (FP) of dicyclopentadiene (DCPD), enabling rapid and energy-efficient predictions of temperature and degree of cure evolution."
+# excerpt: "This work develops an adaptive deep-learning surrogate model for frontal polymerization (FP) of dicyclopentadiene (DCPD), enabling rapid and energy-efficient predictions of temperature and degree of cure evolution."
 date: 2024-02-08
 venue: "The Journal of Physical Chemistry B"
 paperurl: "https://pubs.acs.org/doi/10.1021/acs.jpcb.3c07714"

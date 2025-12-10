@@ -3,7 +3,7 @@ title: "Toward signed distance function based metamaterial design: Neural operat
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-01-sdf-based-metamaterial-design
-excerpt: "This work proposes an inverse design framework for metamaterials using signed distance function (SDF) representations and a conditional diffusion model, enabling smooth boundary designs compatible with FE simulations and manufacturing."
+# excerpt: "This work proposes an inverse design framework for metamaterials using signed distance function (SDF) representations and a conditional diffusion model, enabling smooth boundary designs compatible with FE simulations and manufacturing."
 date: 2025-11-01
 venue: "Computer Methods in Applied Mechanics and Engineering"
 paperurl: "https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882"

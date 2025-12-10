@@ -3,7 +3,7 @@ title: "PDLSM-FEM: Solver of Coupled Peridynamics Least Squares Minimization wit
 collection: publications
 category: manuscripts
 permalink: /publication/2021-12-17-pdlsm-fem-solver
-excerpt: "PDLSM-FEM solver is a parallel implementation of coupled peridynamics least squares minimization and finite element method (PDLSM-FEM) in 2D and 3D using MPI parallelism."
+# excerpt: "PDLSM-FEM solver is a parallel implementation of coupled peridynamics least squares minimization and finite element method (PDLSM-FEM) in 2D and 3D using MPI parallelism."
 date: 2021-12-17
 venue: "Journal of Open Source Software"
 paperurl: "https://joss.theoj.org/papers/10.21105/joss.03668"

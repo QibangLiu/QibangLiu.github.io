@@ -3,7 +3,7 @@ title: "Towards long rollout of neural operators with local attention and flow m
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-02-towards-long-rollout-neural-operators
-excerpt: "This work augments Fourier neural operators with large kernel attention and proposes a correction scheme inspired by flow matching to improve long-term rollout accuracy in solving frontal polymerization PDEs."
+# excerpt: "This work augments Fourier neural operators with large kernel attention and proposes a correction scheme inspired by flow matching to improve long-term rollout accuracy in solving frontal polymerization PDEs."
 date: 2024-12-02
 venue: "Machine Learning and the Physical Sciences Workshop @ NeurIPS 2024"
 paperurl: "https://openreview.net/forum?id=CFNgeuXzPx"

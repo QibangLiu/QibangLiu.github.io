@@ -3,7 +3,7 @@ title: "Stress and failure analysis of woven composites using an automated confo
 collection: publications
 category: conferences
 permalink: /publication/stress-failure-woven-composites
-excerpt: "This paper presents a progressive damage modeling study to investigate the damage and failure behaviors of woven composites using an automated structured conformal meshing model developed by the authors."
+# excerpt: "This paper presents a progressive damage modeling study to investigate the damage and failure behaviors of woven composites using an automated structured conformal meshing model developed by the authors."
 date: 2021-10-11
 venue: "36th Annual Technical Conference of the American Society for Composites"
 paperurl: "https://doi.org/10.12783/asc36/35935"

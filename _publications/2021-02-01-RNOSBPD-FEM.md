@@ -3,7 +3,7 @@ title: "Revised non-ordinary state-based peridynamics and a new framework for co
 collection: publications
 category: manuscripts
 permalink: /publication/2021-02-01-RNOSBPD-FEM
-excerpt: "We present RNOSBPD, which works for arbitrary interaction domains without surface or volume corrections, recovers NOSBPD for spherical domains, and introduce a straightforward RNOSBPD–FEM coupling without special interface techniques."
+# excerpt: "We present RNOSBPD, which works for arbitrary interaction domains without surface or volume corrections, recovers NOSBPD for spherical domains, and introduce a straightforward RNOSBPD–FEM coupling without special interface techniques."
 date: 2021-02-01
 venue: "Engineering Fracture Mechanics"
 paperurl: "https://linkinghub.elsevier.com/retrieve/pii/S0013794420310444"

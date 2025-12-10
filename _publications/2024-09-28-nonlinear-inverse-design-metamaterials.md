@@ -3,7 +3,7 @@ title: "Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enab
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-28-nonlinear-inverse-design-metamaterials
-excerpt: "This paper presents a novel framework leveraging video diffusion models for inverse multi-material design based on nonlinear stress-strain responses, enabling the creation of next-generation metamaterials with finely tuned mechanical characteristics."
+# excerpt: "This paper presents a novel framework leveraging video diffusion models for inverse multi-material design based on nonlinear stress-strain responses, enabling the creation of next-generation metamaterials with finely tuned mechanical characteristics."
 date: 2024-09-28
 venue: "arXiv"
 paperurl: "http://arxiv.org/abs/2409.13908"

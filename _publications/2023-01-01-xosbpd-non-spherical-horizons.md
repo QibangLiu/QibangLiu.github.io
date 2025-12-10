@@ -3,7 +3,7 @@ title: "An extended ordinary state-based peridynamics for non-spherical horizons
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-xosbpd-non-spherical-horizons
-excerpt: "This work presents an extended ordinary state-based peridynamics (XOSBPD) model for non-spherical horizons, removing the limitation of spherical horizons and enabling arbitrary horizon shapes."
+# excerpt: "This work presents an extended ordinary state-based peridynamics (XOSBPD) model for non-spherical horizons, removing the limitation of spherical horizons and enabling arbitrary horizon shapes."
 date: 2023-01-01
 venue: "Computer Methods in Applied Mechanics and Engineering"
 paperurl: "https://linkinghub.elsevier.com/retrieve/pii/S0045782522006673"
