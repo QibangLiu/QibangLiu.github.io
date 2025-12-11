@@ -21,7 +21,7 @@ Research
   <img src="/images/research/UcVAE/UcVAE.png" style="width:80%;" alt="UcVAE for Morphogenic Pattern Design">
   <p style="font-size:0.8em;">UcVAE for Morphogenic Pattern Design. (a) UcVAE architecture enabling one-to-many mapping from target pattern to feasible process conditions. (b) Natural inspiration patterns and corresponding UcVAE-designed FP (Frontal Polymerization) process results.</p>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882) | [Code](https://github.com/QibangLiu/UcVAE) | [Read More] | [2025 HPCwire Award: Best Use of HPC in Industry Manufacturing](https://www.hpcwire.com/2025-readers-editors-choice-best-use-of-hpc-in-industry/?utm_source=HPCwire+Services+-+Announcements&utm_medium=email&utm_campaign=HPCwire+Readers%E2%80%99+and+Editors%E2%80%99+Choice+Awards+Announced%2521&utm_term=5578C8123245G0O&oly_enc_id=5578C8123245G0O)
+&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882) | [Code](https://github.com/QibangLiu/UcVAE) | [Read More](/research/) | [2025 HPCwire Award: Best Use of HPC in Industry Manufacturing](https://www.hpcwire.com/2025-readers-editors-choice-best-use-of-hpc-in-industry/?utm_source=HPCwire+Services+-+Announcements&utm_medium=email&utm_campaign=HPCwire+Readers%E2%80%99+and+Editors%E2%80%99+Choice+Awards+Announced%2521&utm_term=5578C8123245G0O&oly_enc_id=5578C8123245G0O)
 
 
 **[Geometry-Informed Neural Operator Transformer (GINOT)](http://arxiv.org/abs/2504.19452)**
@@ -30,7 +30,7 @@ Research
   <img src="/images/research/ginot/test_50percentile.gif" style="width:90%;" alt="Geometry-Informed Neural Operator Transformer">
     <p style="font-size:0.8em;"> GINOT predicts solutions from geometries represented by point cloud.</p>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;[Paper](http://arxiv.org/abs/2504.19452) | [Code](https://github.com/QibangLiu/GINOT) | [Read More]
+&nbsp;&nbsp;&nbsp;&nbsp;[Paper](http://arxiv.org/abs/2504.19452) | [Code](https://github.com/QibangLiu/GINOT) | [Read More](/research/)
 
 **[Toward metamaterial design: Neural operator transformer for forward prediction and diffusion model for inverse design](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882)**
 
@@ -44,7 +44,7 @@ Research
     <p style="font-size:0.8em;">Neural Operator Transformer Forward Prediction</p>
   </div>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882) | [Code](https://github.com/QibangLiu/SDFGeoDesign) | [Read More]
+&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882) | [Code](https://github.com/QibangLiu/SDFGeoDesign) | [Read More](/research/)
 
 
 **[Advancing Peridynamics (PD) for Efficient and Accurate Fracture Simulation](https://linkinghub.elsevier.com/retrieve/pii/S0045782522006673)**
@@ -64,7 +64,7 @@ Research
   </div>
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;[Paper 1](https://linkinghub.elsevier.com/retrieve/pii/S0013794420310444) | [Paper 2](https://linkinghub.elsevier.com/retrieve/pii/S0013794421002988) | [Paper 3](https://link.springer.com/10.1007/s10704-022-00678-4) | [Paper 4](https://linkinghub.elsevier.com/retrieve/pii/S0045782522006673) |
-[Code](https://github.com/QibangLiu/PDLSM-FEM_mpi/tree/master) | [Read More]
+[Code](https://github.com/QibangLiu/PDLSM-FEM_mpi/tree/master) | [Read More](/research/)
 
 
 **[Mesoscale Finite Element Meshing for Microstructures of Textile Composites](http://journals.sagepub.com/doi/10.1177/00219983221113615)**
@@ -79,4 +79,4 @@ Research
     <p style="font-size:0.8em;">Digital Fabric and Composite Analyzer (DFCA) Integrated Meshing Module</p>
   </div>
 </div>
-&nbsp;&nbsp;&nbsp;&nbsp;[Paper](http://journals.sagepub.com/doi/10.1177/00219983221113615) | [DFCA](https://fabricmechanics.com/) (licensed by Apple Inc. and GE) | [Read More](/portfolio/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Paper](http://journals.sagepub.com/doi/10.1177/00219983221113615) | [DFCA](https://fabricmechanics.com/) (licensed by Apple Inc. and GE) | [Read More](/research/)

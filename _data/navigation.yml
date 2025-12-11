@@ -12,7 +12,7 @@ main:
     url: /
 
   - title: "Research" # put research projects page here
-    url: /portfolio/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
