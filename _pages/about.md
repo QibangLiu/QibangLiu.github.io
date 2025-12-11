@@ -69,7 +69,7 @@ Research
 [paper](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882) | [code](https://github.com/QibangLiu/SDFGeoDesign) | [Read More]
 
 
-■ **[Advancing Peridynamics (PD) for Efficient and Accurate Fracture Simulation](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882)**
+■ **[Advancing Peridynamics (PD) for Efficient and Accurate Fracture Simulation](https://linkinghub.elsevier.com/retrieve/pii/S0045782522006673)**
 
 <table style="width:100%">
   <tr style="padding:0; margin:0;">
@@ -91,7 +91,7 @@ Research
 [Code](https://github.com/QibangLiu/PDLSM-FEM_mpi/tree/master) | [Read More]
 
 
-■ **[Mesoscale Finite Element Meshing for Microstructures of Textile Composites](https://linkinghub.elsevier.com/retrieve/pii/S0045782525005882)**
+■ **[Mesoscale Finite Element Meshing for Microstructures of Textile Composites](http://journals.sagepub.com/doi/10.1177/00219983221113615)**
 
 <table style="width:100%">
   <tr style="padding:0; margin:0;">
