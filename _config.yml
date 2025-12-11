@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Qibang Liu"
   pronouns         : # example: "she/her"
-  bio              : "Research Scientist at NCSA, University of Illinois Urbana-Champaign; Adjunct Assistant Professor at Kansas State University. Research interests include AI-aided engineering (A2E) and computational science."
+  bio              : "Ph.D. | Research Scientist, NCSA@UIUC | Adjunct Assistant Professor @ KSU"
   location         : "Urbana, Illinois"
   employer         : "NCSA@UIUC"
   uri              : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7935-7907"
   semantic         : # URL
   ssrn             : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Qibang-Liu"
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
