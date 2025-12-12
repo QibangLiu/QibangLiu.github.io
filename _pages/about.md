@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Dr. Qibang Liu"
+title: "[Dr. Qibang Liu](https://www.ncsa.illinois.edu/directory/profile/qibang/)"
 author_profile: true
 redirect_from:
   - /about/
